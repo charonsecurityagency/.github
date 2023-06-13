@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="Developer.gif" width="100"/>
+  <img src="profile/Developer.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/amirhossein-ghanmi/">
@@ -14,7 +14,7 @@
 </h1>
 
 <div align="center">
-  <img src="about.gif" width="600" height="300"/>
+  <img src="profile/about.gif" width="600" height="300"/>
 </div>
 
 ---
